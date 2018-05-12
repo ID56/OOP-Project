@@ -12,5 +12,3 @@ The chess class will contain several paramenters and methods such as,
 -checkmate(*chess*): checks for checkmate.
 //Pending.
 
-#2. Class based dungeon rpg
-
