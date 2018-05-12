@@ -12,3 +12,4 @@ The chess class will contain several paramenters and methods such as,
 -checkmate(*chess*): checks for checkmate.
 //Pending.
 
+#Edit1:Added simple graphics view architecture
