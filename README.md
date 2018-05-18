@@ -6,10 +6,10 @@ __________________
 __________________
 
 #1. Two player chess, using QT/unreal GUI.
-The chess class will contain several paramenters and methods such as,
--piece: integer values from 1 to 6, corresponding to different pieces; +ve and -ve signifying opposing players, and zero signifying an empty square.
--movement(piece): controls movement.
--checkmate(*chess*): checks for checkmate.
-//Pending.
+A chessboard class will form the background layer. THe parent chesspiece class and its eight inherited piece classes form the pieces. Check conditions need to be implemented into the King piece. The entire program is arranged and executed by a Game class, which handles most of the visual interface.
 
-#Edit1:Added simple graphics view architecture
+#Edit1:Added simple graphics view architecture, and background scene.
+
+#Edit2:Added check conditions for king and a parent class 'chesspiece' for implementing future individual piece classes.
+
+#Edit3:Added game class which handles gameplay and user interface.
