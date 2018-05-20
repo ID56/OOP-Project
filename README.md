@@ -13,3 +13,5 @@ A chessboard class will form the background layer. THe parent chesspiece class a
 #Edit2:Added check conditions for king and a parent class 'chesspiece' for implementing future individual piece classes.
 
 #Edit3:Added game class which handles gameplay and user interface.
+
+#Edit4:Added chessboard.cpp,chessboard.h,main.cpp. Chessboard adds the black and white chesspeices and draws the board.Main.cpp starts the game
