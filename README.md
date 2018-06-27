@@ -2,7 +2,15 @@
 A repository for my CSE 4301 course project.
 __________________
 
-<Possible ideas>
+Project Members:
+
+Ahmed Omar Ahsan, ID: 160041001
+Hasan Tanvir Iqbal, ID: 160041019
+Mazharul Islam Rishad, ID: 160041053
+Farhan M Nafis Momin, ID: 160041074
+Minhajul Islam Minhaj, ID: 160041061
+Mashrur Mahmud Morshed, ID: 160041056
+
 __________________
 
 #1. Two player chess, using QT/unreal GUI.
