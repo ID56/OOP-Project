@@ -22,8 +22,10 @@ __________________
 5. Open QT creator
 6. Select 'Open Project'
 7. Open the game folder and select the .pro file
-8. A warning will come up: "No .user settings file created by this instance of QT". Click yes and continue.
-9. Run the game.
+8. Since no .user file is present, you need to configure it according to your machine. Simply press configure on the configure screen.
+9. Build and run the game.
+10. Enjoy!
+__________________
 
 #Two player chess, using QT framework
 
