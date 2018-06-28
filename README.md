@@ -13,13 +13,26 @@ Mashrur Mahmud Morshed, ID: 160041056
 
 __________________
 
-#1. Two player chess, using QT/unreal GUI.
+#HOW TO PLAY
+__________________
+1. You need QT creator 4.0.3 or higher installed on your machine to play
+2. If you don't have QT, install it from https://www.qt.io/download
+3. Click the 'Clone/Download' button, and download zip
+4. Extract the zip file in the QT folder
+5. Open QT creator
+6. Select 'Open Project'
+7. Open the game folder and select the .pro file
+8. A warning will come up: "No .user settings file created by this instance of QT". Click yes and continue.
+9. Run the game.
+
+#Two player chess, using QT framework
+
 A chessboard class will form the background layer. THe parent chesspiece class and its eight inherited piece classes form the pieces. Check conditions need to be implemented into the King piece. The entire program is arranged and executed by a Game class, which handles most of the visual interface.
 
-#Edit1:Added simple graphics view architecture, and background scene.
-
-#Edit2:Added check conditions for king and a parent class 'chesspiece' for implementing future individual piece classes.
-
-#Edit3:Added game class which handles gameplay and user interface.
-
-#Edit4:Added chessboard.cpp,chessboard.h,main.cpp. Chessboard adds the black and white chesspeices and draws the board.Main.cpp starts the game
+#Features
+-1v1 gameplay
+-2D graphics
+-Interactive gameplay
+-Possible moves highlighted in red
+-Check highlighted in blue
+-Checkmate results in a new game
